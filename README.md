@@ -1,6 +1,6 @@
 # Restore Web App
 
-> Web Application which uses machine learning to colorize a black and white picture.
+> easy-to-use web app for deployed colorized model
 
 ### Setup Instructions
 
